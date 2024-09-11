@@ -10,7 +10,7 @@ public class comicMain {
 	public static void main(String[] args) {
 		//comment
 		JFrame maddox = new JFrame();
-		maddox.setTitle("Comic Project");
+		maddox.setTitle("Sky and Ground Comic");
 		//Screen Size
 		Dimension screenSize = Toolkit.getDefaultToolkit().getScreenSize();
 		

@@ -14,8 +14,8 @@ public class Panel1 extends JPanel {
 		
 		super.paintComponent(g);
 		
-		g.setColor(Color.green);
-		g.drawOval(200, 200, 50, 50);
+		g.setColor(Color.black);
+		g.drawOval(25, 50, 50, 50);
 		g.drawString("Panel1", 30, 30);
 		
 	}
