@@ -8,7 +8,7 @@ import javax.swing.*;
 public class comicMain {
 
 	public static void main(String[] args) {
-		
+		//comment
 		JFrame maddox = new JFrame();
 		maddox.setTitle("Comic Project");
 		//Screen Size
