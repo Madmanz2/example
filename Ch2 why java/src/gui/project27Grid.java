@@ -27,27 +27,27 @@ public class project27Grid {
 		JPanel panel3 = new JPanel();
 		panel3.setBackground(Color.black);
 		
-		JPanel panel21 = new JPanel();
-		panel1.setBackground(Color.white);
+		JPanel panel4 = new JPanel();
+		panel4.setBackground(Color.white);
 		
 		
-		JPanel panel22 = new JPanel();
-		panel2.setBackground(Color.black);
+		JPanel panel5 = new JPanel();
+		panel5.setBackground(Color.black);
 		
-		JPanel panel23 = new JPanel();
-		panel3.setBackground(Color.white);
-		
-		
-		
-		JPanel panel31 = new JPanel();
-		panel1.setBackground(Color.black);
+		JPanel panel6 = new JPanel();
+		panel6.setBackground(Color.white);
 		
 		
-		JPanel panel32 = new JPanel();
-		panel2.setBackground(Color.white);
 		
-		JPanel panel33 = new JPanel();
-		panel3.setBackground(Color.black);
+		JPanel panel7 = new JPanel();
+		panel7.setBackground(Color.black);
+		
+		
+		JPanel panel8 = new JPanel();
+		panel8.setBackground(Color.white);
+		
+		JPanel panel9 = new JPanel();
+		panel9.setBackground(Color.black);
 		
 		
 		
@@ -56,12 +56,12 @@ public class project27Grid {
 		pane.add(panel1);
 		pane.add(panel2);
 		pane.add(panel3);
-		pane.add(panel21);
-		pane.add(panel22);
-		pane.add(panel23);
-		pane.add(panel31);
-		pane.add(panel32);
-		pane.add(panel33);
+		pane.add(panel4);
+		pane.add(panel5);
+		pane.add(panel6);
+		pane.add(panel7);
+		pane.add(panel8);
+		pane.add(panel9);
 
 		//test
 		
