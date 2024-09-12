@@ -10,7 +10,7 @@ public class comicMain {
 	public static void main(String[] args) {
 		//comment
 		JFrame maddox = new JFrame();
-		maddox.setTitle("Sky and Ground Comic");
+		maddox.setTitle("Loss Comic Extened");
 		//Screen Size
 		Dimension screenSize = Toolkit.getDefaultToolkit().getScreenSize();
 		
@@ -21,12 +21,12 @@ public class comicMain {
 		maddox.pack();
 		maddox.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		
-		Panel1 p1 = new Panel1(Color.green);
-		Panel2 p2 = new Panel2(Color.cyan);
-		Panel3 p3= new Panel3(Color.green);
-		Panel4 p4 = new Panel4(Color.cyan);
-		Panel5 p5 = new Panel5(Color.green);
-		Panel6 p6 = new Panel6(Color.green);
+		Panel1 p1 = new Panel1(new Color(100,100,100));
+		Panel2 p2 = new Panel2(new Color(65,65,65));
+		Panel3 p3= new Panel3(new Color(100,100,100));
+		Panel4 p4 = new Panel4(new Color(65,65,65));
+		Panel5 p5 = new Panel5(new Color(100,100,100));
+		Panel6 p6 = new Panel6(new Color(65,65,65));
 		
 		Container pane = maddox.getContentPane();
 		pane.setLayout(new GridLayout(3,2, 25, 25));
